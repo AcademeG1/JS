@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79001912-d116-48cc-ab98-e9f483446690" name="Default Changelist" comment="We just created Web site. And we're wanna sex and many money" />
+    <list default="true" id="79001912-d116-48cc-ab98-e9f483446690" name="Default Changelist" comment="We just created Web site. And we're wanna sex and many money">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/style.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/style.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +37,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604578869302</updated>
-      <workItem from="1604578871638" duration="1421000" />
+      <workItem from="1604578871638" duration="1805000" />
     </task>
     <task id="LOCAL-00001" summary="We just created Web site. And we're wanna sex and many money">
       <created>1604581152510</created>
@@ -43,7 +46,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604581152510</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="We just created Web site. And we're wanna sex and many money">
+      <created>1604581184216</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604581184216</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -54,14 +64,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="We just created Web site. And we're wanna sex and many money" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="600" y="354" key="Github.ShareDialog" timestamp="1604581507729">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="600" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1604581507729" />
     <state x="229" y="89" key="SettingsEditor" timestamp="1604580780690">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1604580780690" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1604581170230">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1604581416790">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1604581170230" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1604581416790" />
     <state x="533" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604581025673">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
